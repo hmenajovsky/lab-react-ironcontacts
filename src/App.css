@@ -24,6 +24,10 @@
   color: white;
 }
 
+.picture {
+width: 50%;
+}
+
 .App-link {
   color: #61dafb;
 }
@@ -35,4 +39,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.picture {
+
 }
